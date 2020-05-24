@@ -12,7 +12,7 @@ Application refuses to show anything but black screen after it has been loaded.
 Install `wmname` - Window Manager impersonator. This should work on all Arch-based distributions 
 
 ```bash
-$ pacman -S community/wmname
+# pacman -S community/wmname
 ```
 
 Update your `~/.config/bspwm/bspwmrc` configuration with this line at the bottom of the file.
